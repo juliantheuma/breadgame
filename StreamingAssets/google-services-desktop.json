@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "45162581477",
+    "firebase_url": "https://bread-game-1d51e-default-rtdb.firebaseio.com",
+    "project_id": "bread-game-1d51e",
+    "storage_bucket": "bread-game-1d51e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45162581477:android:0d88f0eeb99dd68c89f30c",
+        "android_client_info": {
+          "package_name": "com.breadgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45162581477-e2lmbvo7pvn6t6plbgtrihul26436n1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCyILrLYaZX06NeRwjYxktYYSoSJDkfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45162581477-e2lmbvo7pvn6t6plbgtrihul26436n1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45162581477:android:a6c098cbeb1bdd9189f30c",
+        "android_client_info": {
+          "package_name": "com.game1.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45162581477-e2lmbvo7pvn6t6plbgtrihul26436n1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjCyILrLYaZX06NeRwjYxktYYSoSJDkfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45162581477-e2lmbvo7pvn6t6plbgtrihul26436n1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
